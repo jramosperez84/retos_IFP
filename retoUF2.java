@@ -1,8 +1,6 @@
-package retos;
-
 import java.util.Scanner;
 
-public class NumerosPrimos {
+public class RetoUF2 {
 
 	public static void main(String[] args) {
 		

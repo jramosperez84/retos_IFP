@@ -3,7 +3,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class Start {
+public class RetoUF3 {
 	
 	/*
 	 * Función para leer el archivo pepeNotas.txt, esta función devolvera un float o bien las notas o 

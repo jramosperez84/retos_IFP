@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Start {
+public class RetoUF1 {
 
 	public static void main(String[] args) {		
 		
